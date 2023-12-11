@@ -1,0 +1,31 @@
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+
+
+.courusel-inner {
+    width: 80%;
+}
+
+.container1 {
+    background-color: rgb(236, 172, 172);
+}
+
+
+.col-lg-6mx-auto {
+    background-color: rgb(245, 201, 201);
+}
+
+.nav-item {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: black;
+}
+
+
+body {
+    background-color: darkseagreen;
+}
